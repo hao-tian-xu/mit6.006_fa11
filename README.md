@@ -24,7 +24,7 @@ This repository shares the learning process of the course 6.006 of fall 2011 at 
    #########
    ```
 
-   - Some Problem Sets need PIL which I didn't find a version for python2. So I put modified helper files in Python3 format.
+   - Some Problem Sets need PIL which I didn't find a version for Python2. So I put modified helper files in Python3 format.
 
 3. Exams‘ results, including Quiz2 and Final Exam.
 
@@ -56,7 +56,7 @@ This repository shares the learning process of the course 6.006 of fall 2011 at 
   #########
   ```
 
-  - 有两个作业需要PIL，没有找到python2的版本，我把修改的python3格式的代码也上传了
+  - 有两个作业需要PIL，没有找到Python2的版本，我把修改的Python3格式的代码也上传了
 
 3. Exams的成果，包含Quiz2和Final Exam
 
