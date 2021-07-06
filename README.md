@@ -8,7 +8,7 @@ This repository shares the learning process of the course 6.006 of fall 2011 at 
 
 2. Problem sets‘ results
 
-   - The code solution is marked as below:
+   - The code solutions are marked as below in each file:
 
    ```python
    ###############
@@ -24,9 +24,9 @@ This repository shares the learning process of the course 6.006 of fall 2011 at 
    #########
    ```
 
-   - The writeup part is not well-formatted; wait for time to organize it before uploading.
+   - Some Problem Sets need PIL which I didn't find a version for python2. So I put modified helper files in Python3 format.
 
-3. Exams‘ results, including Quiz2 and Final Exam, Quiz1 is also unorganized in format; wait for time to organize it before uploading.
+3. Exams‘ results, including Quiz2 and Final Exam.
 
 07.06.2021
 
@@ -56,8 +56,8 @@ This repository shares the learning process of the course 6.006 of fall 2011 at 
   #########
   ```
 
-  - 题目部分完成的格式没有整理，等有时间整理了再上传
+  - 有两个作业需要PIL，没有找到python2的版本，我把修改的python3格式的代码也上传了
 
-3. Exams的成果，包含Quiz2和Final Exam，Quiz1同样是格式没有整理，等有时间整理了再上传
+3. Exams的成果，包含Quiz2和Final Exam
 
 2021年7月6日
