@@ -34,7 +34,7 @@ This repository shares the learning process of the course 6.006 of fall 2011 at 
 
 ## 算法导论
 
-这里分享了MIT OCW上2011年春季学期6.006的学习过程，分为以下三个部分：
+这里分享了MIT OCW上2011年秋季学期6.006的学习过程，分为以下三个部分：
 
 1. 讲座和复习课的笔记，包含最终复习时的总结
 
