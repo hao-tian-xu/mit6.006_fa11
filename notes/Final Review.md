@@ -230,10 +230,13 @@ $T(n)=\left\{\begin{array}{l}\Theta(1) \text { if } n=1 \\ 2 T(n / 2)+\Theta(n) 
 - $\mathrm{O}(\mathrm{n} \log \mathrm{n})$ via simple analysis
 
 - Total amount of work in the for loop can be summed as:
+
 	$n / 4(1 c)+n / 8(2 c)+n / 16(3 c)+\ldots+1(\lg n c)$
 - Setting $\mathrm{n} / 4=2^{\mathrm{k}}$ and simplifying we get:
+
 	c $2^{\mathrm{k}}\left(1 / 2^{0}+2 / 2^{1}+3 / 2^{2}+\ldots(\mathrm{k}+1) / 2^{\mathrm{k}}\right)$
 - The term is brackets is bounded by a constant!
+
 	This means that Build_Max_Heap is $\mathrm{O}(\mathrm{n})$
 
 ## Binary Search Tree (AVL)
@@ -354,9 +357,9 @@ Goal: $O(1)$ time per operation.
 - $m *=2 ? m=\Theta(n)$ still $(r+=1)$
 
 	$\Longrightarrow$ rebuild at insertion $2^{i}$
-
+	
 	$\Longrightarrow n$ inserts cost $\Theta(1+2+4+8+\cdots+n)$ where $n$ is really the next power of 2 $=\Theta(n)$
-
+	
 	<u>**Table Doubling**</u>
 
 - a few inserts cost linear time, but $\Theta(1)$ "on average".
@@ -546,6 +549,7 @@ Dijkstra (G, W, s) //uses priority queue Q
 ### Implementation of Q (Priority Queue)
 
 - Array:  $\Theta(V\cdot V+E \cdot 1)=\Theta\left(V^{2}+E\right)=\Theta\left(V^{2}\right)$ 
+
 				(where $E=O(V^2)$)
 - Binary Min-Heap: $\Theta(V \lg V+E \lg V)$
 - Fibonacci Heap: $\Theta(V \lg V+E)$
