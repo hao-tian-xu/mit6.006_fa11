@@ -2,7 +2,7 @@
 
 ## License
 
-This work is a derivative of "[MIT 6.006 Introduction to Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/)", used under CC BY-NC-SA 4.0.
+This work is a derivative of "[MIT 6.006 Introduction to Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/)" by MIT OCW, used under CC BY-NC-SA 4.0.
 
 [![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
